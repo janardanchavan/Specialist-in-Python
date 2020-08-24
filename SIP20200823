@@ -1,0 +1,38 @@
+Summary for 23rd Aug:
+- Today's topic - running application on another machine without login (local/wireless), creating application programming interface using common gateway interface
+- pre-requisite
+  - network connection to the machine
+  - CGI - Common Gateway Interface
+  - webserver installed
+- installing webserver - yum install httpd
+- enabling webserver - systemctl restart httpd
+- if we need to launch the webpage, page needs to be saved in directory: /var/www/html/
+
+- On the local machine we can now put the ip address and above file name to generate the result.
+  http://192.168.1.101/Hello.html
+
+- if we need to run the code from webpage it needs to be saved in directory: /var/www/cgi-bin/
+- if webpage is saved in cgi-bin - need to make it executable: 
+  >chmod +x web.py
+
+- need to tell the application which interpreter to run the program
+  #!/usr/bin/python3
+- Also it is important to mention the content type:
+  print("content-type: text/html")
+  print()
+
+  above blank line (print()) makes the top section as header. Note that it is not executable but to tell the content type to the browser so that it can be recognised by any browser.
+
+- Now since we have mentioned the interpreter name we can also run the program in command line as 
+  > ./web.py
+
+- On the local machine, we can now put the ip address and above file name to generate the result.
+  http://192.168.1.101/Hello.py
+
+This way we have created an API - Application Programming Interface
+
+- we can also store the output of any system command in a variable with the help of subprocess library and it's getoutput method
+  > import subprocess
+  > x = subprocess.getoutput("date")
+
+Same way we can create different files to run the different commands, eg. cal.py, date.py, etc.
