@@ -15,8 +15,6 @@
 [Facebook](https://m.facebook.com/story.php?story_fbid=171685647753600&id=101337294788436) | 
 [YouTube](https://www.youtube.com/watch?v=VW0PUBSxVxg)
 
-
-<br/>
 ## SIP Summary for #Day2 - 09-Aug-2020:
 
 👉 Some more python basics.
@@ -32,15 +30,11 @@
 [Facebook](https://m.facebook.com/story.php?story_fbid=173351137587051&id=101337294788436) | 
 [LinkedIn](https://www.youtube.com/watch?v=Mk3HvO3YEl8)
 
-
-
-<br/>
 ## SIP Summary for #Day3 - 15-08-2020
 
 LinkedIn | Facebook | 
 [YouTube](https://youtu.be/ElOJReuu60g)
 
-<br/>
 ## SIP Summary for #Day4 - 16-Aug-2020
 
 👉 What you learned more about Jupyter IDE?
@@ -58,9 +52,8 @@ LinkedIn | Facebook |
 [Facebook](https://m.facebook.com/story.php?story_fbid=173647110890787&id=101337294788436) | 
 [YouTube](https://youtu.be/2PjfpSgtuE8)
 
+## No session on 22nd Aug
 
-No session on 22nd Aug
-<br/><br/>
 ## SIP Summary for #Day - 23-Aug-2020
 
 👉 What do you understand by API and CGI? What concepts you learned about these terms?
@@ -76,13 +69,11 @@ No session on 22nd Aug
 [Facebook](https://m.facebook.com/story.php?story_fbid=175602254028606&id=101337294788436) | 
 [YouTube](https://youtu.be/vBUx9KZyoZM)
 
-<br/>
 ❗ What is the difference between Radio(Option) button and CheckBox used in HTML form?❗
 
 [Facebook](https://m.facebook.com/story.php?story_fbid=176554533933378&id=101337294788436) | 
 [LinkedIN](https://www.linkedin.com/posts/iiec-rise_what-is-the-difference-between-radiooption-activity-6704649237650530305-rHAL)
 
-<br/>
 ## SIP Summary for #Day - 29-08-2020
 
 👉 More about Concept of headers
@@ -97,8 +88,6 @@ No session on 22nd Aug
 [LinkedIn](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6705526536956612608-Ne9d) | 
 [Facebook](https://m.facebook.com/story.php?story_fbid=177173613871470&id=101337294788436) | 
 [YouTube](https://youtu.be/XXddYlWr6p8)
-
-<br/>
 
 🔥 Winner Project Links 🔥
 
@@ -118,7 +107,6 @@ Best feature : Simple yet great UI, clean workspace
 https://www.linkedin.com/posts/akarsh-agarwal-5ba420170_iiecrise-vimaldaga-linuxworld-activity-6702186817178918913-OwgD
 Best feature : Ample of use cases solved, for example running a Docker container using the voice assistant.
 
-<br/>
 ## SIP Summary for #Day - 30-08-2020
 
 👉 Brief About ARTH and INIT
@@ -142,8 +130,8 @@ Best feature : Ample of use cases solved, for example running a Docker container
 [Facebook](https://m.facebook.com/story.php?story_fbid=177425370512961&id=101337294788436) | 
 [YouTube](https://youtu.be/osbBiyxTRHg)
 
-No session on 5th Sep
-<br/><br/>
+## No session on 5th Sep
+
 ## SIP Summary for #Day - 06-09-2020
 
 👉 Overview About Integrating Speech with Python
@@ -161,12 +149,9 @@ No session on 5th Sep
 [Facebook](https://m.facebook.com/story.php?story_fbid=179265863662245&id=101337294788436) | 
 [YouTube](https://youtu.be/p-9unDfaZCo)
 
-<br/>
-
 ‼️ Following are the Docker sessions Vimal sir talked about in the last session‼️
 
 Everyone is suggested to go through these sessions.
-
 
 💠 Session 1: https://youtu.be/-lpDRE3Fcj0
 
@@ -174,7 +159,6 @@ Everyone is suggested to go through these sessions.
 
 💠 Session 3: https://youtu.be/wmGgmaMmPEQ
 
-<br/>
 ## SIP Summary for #Day - 12-09-2020
 
 👉 What is the concept of echo back? What's the difference between input() and getpass() function ?
@@ -188,7 +172,6 @@ Everyone is suggested to go through these sessions.
 [Facebook](https://m.facebook.com/story.php?story_fbid=180856903503141&id=101337294788436) | 
 [YouTube](https://youtu.be/OFzbAn0IAfQ)
 
-<br/>
 ## SIP Summary for #Day - 13-09-2020
 
 👉 What you gained about docker technology ? What basics you learned about it ?
@@ -201,7 +184,6 @@ Everyone is suggested to go through these sessions.
 [Facebook](https://m.facebook.com/story.php?story_fbid=181128246809340&id=101337294788436) | 
 [YouTube](https://youtu.be/-3n3ifUDIh8)
 
-<br/>
 ## SIP Summary for #Day - 19-09-2020
 
 👉 What is SeLinux Security in Linux ?
@@ -215,8 +197,8 @@ Everyone is suggested to go through these sessions.
 [Facebook](https://m.facebook.com/story.php?story_fbid=182784493310382&id=101337294788436) | 
 [YouTube](https://youtu.be/DQcHOmIPQOw)
 
-No session on 20th, 26th Sep 
-<br/><br/>
+## No session on 20th, 26th Sep 
+
 ## TASK 2 SUBMISSION CLOSING TONIGHT ⚠️
 
 📄 Task Description: Remember initially Vimal Sir has asked everyone to practice the menu making system using CLI, now you have to convert the same menu using CGI.
@@ -227,7 +209,6 @@ No session on 20th, 26th Sep
 
 📥 Submission Link: https://bit.ly/pythontask2
 
-<br/>
 ## SIP Summary for #Day - 03-10-2020
 
 👉 What you learned about loops in python? What are the various types of loops?
@@ -239,8 +220,8 @@ No session on 20th, 26th Sep
 [Facebook](https://m.facebook.com/story.php?story_fbid=186735962915235&id=101337294788436) | 
 [YouTube](https://youtu.be/BQh4Qto_V68)
 
-No session on 4th, 10th Oct
-<br/><br/>
+## No session on 4th, 10th Oct
+
 ## SIP Summary for #Day - 11-10-2020
 
 👉 How many operations can we done on Dataset?
@@ -257,7 +238,6 @@ No session on 4th, 10th Oct
 [Facebook](https://m.facebook.com/story.php?story_fbid=189046609350837&id=101337294788436) | 
 [YouTube](https://youtu.be/zllkohlUpp0)
 
-<br/>
 ## SIP Summary for #Day - 17-10-2020
 
 👉 What is the difference between list and array ?
@@ -277,8 +257,8 @@ No session on 4th, 10th Oct
 [YouTube](https://youtu.be/0qlhv8tk8RE)
 
 
-No session on 18th, 24th, 25th, 31st Oct and 1 November 2020
-<br/><br/>
+## No session on 18th, 24th, 25th, 31st Oct and 1 November 2020
+
 ## SIP Summary for #Day - 05-12-2020
 
 👉  What is the way to manage the code and Functions ?
@@ -292,15 +272,12 @@ Share the technical summary for the day with us. 👇
 
 #iiec #iiec_rise #iiec_connect #righteducation #rightmentor #worldrecordholder #vimaldaga #pythonwithiiec #makingindiafutureready #pythonbyiiec
 
-
-
 Post Links :-
 
 [▪️ Facebook](https://www.facebook.com/101337294788436/posts/211461443776020/) | 
 [▪️LinkedIN](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6741048970061070336-VZsI) | 
 Session Link: https://youtu.be/fD67680w-YA
 
-<br/>
 ## SIP Summary for #Day - 06-12-2020
 
 👉 PID of a process
@@ -310,12 +287,10 @@ Session Link: https://youtu.be/fD67680w-YA
 👉 What is multi threading ?
 👉 How to make our python program multi threading ?
 
-
 [LinkedIn](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6741592737042206720-FU2e) | 
 [Facebook](https://m.facebook.com/story.php?story_fbid=212497130339118&id=101337294788436) | 
 [YouTube](https://youtu.be/uuj8lrO8qsI)
 
-<br/>
 ## SIP Summary for #Day - 12-12-2020
 
 👉 what is exception?
@@ -327,7 +302,6 @@ Session Link: https://youtu.be/fD67680w-YA
 [LinkedIn](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6743584787157540864-94gm) | 
 [You Tube](https://youtu.be/sK7IVyspM3A)
 
-<br/>
 ## SIP Summary for #Day - 13-12-2020
 
 👉What is File Handling?
@@ -340,9 +314,8 @@ Session Link: https://youtu.be/fD67680w-YA
 [Facebook](https://m.facebook.com/story.php?story_fbid=217062366549261&id=101337294788436) | 
 [YouTube](https://youtu.be/p8gAnBmdotQ)
 
-No Sessions on 19th and 20th December.
+## No Sessions on 19th and 20th December.
 
-<br/>
 ## SIP Summary for #Day19 - 26 December 2020
 
 👉🏻What is the limitation of the input function? Which function is used to overcome this?
@@ -356,8 +329,6 @@ No Sessions on 19th and 20th December.
 [LinkedIn](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6748655302649950208-5A1l) | 
 [You Tube](https://youtu.be/1dJCY5jCv5g)
 
-
-<br/>
 ## SIP Summary for #Day 20 ( 27 December 2020)
 
 👉🏻 What is client & server program...? How we can develop them...?
@@ -369,10 +340,8 @@ No Sessions on 19th and 20th December.
 [LinkedIn](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6749016977488052224-yQYp) | 
 [You Tube](https://youtu.be/qImaq4LsNbA)
 
+## No Sessions on 2nd January.
 
-No Sessions on 2nd January.
-
-<br/>
 ## SIP Summary for #Day 21 ( 3 January 2021)
 
 👉 What is meant by connection oriented protocol?
@@ -385,9 +354,8 @@ No Sessions on 2nd January.
 [LinkedIn](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6751544973516177408-YUmM) | 
 [You Tube](https://youtu.be/oiRPc-6pyZY)
 
-No Sessions on 9th and 10th January.
+## No Sessions on 9th and 10th January.
 
-<br/>
 ## SIP Summary for #Day 22 ( 16 January 2021)
 
 👉 What is the default protocol and IP family of socket?
@@ -398,7 +366,6 @@ No Sessions on 9th and 10th January.
 [LinkedIn](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6756454025039798272-6cCy) | 
 [You Tube](https://youtu.be/PdR-IBpxhX4)
 
-<br/>
 ## SIP Summary for #Day23 ( 17 January 2021)
 
 👉 What is lambda ?
@@ -407,14 +374,12 @@ No Sessions on 9th and 10th January.
 👉 What is default argument?
 👉 What is positional Argument?
 
-
 [Facebook](https://www.facebook.com/101337294788436/posts/238576574397840/) | 
 [LinkedIn](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6756832829071515648-X5Ak) | 
 [You Tube](https://youtu.be/HORUFQHjb0g)
 
 Attendance Form Link https://forms.gle/haQJvZhpYE1jTr5Q9
 
-<br/>
 ## SIP Summary for #Day24 ( 07th February 2021)
 
 👉 What is class in python ? What is the use of a class?
