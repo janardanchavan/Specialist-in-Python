@@ -1,5 +1,5 @@
 # Specialist-in-Python
-SIP Summary for #Day1 - 09-08-2020
+## SIP Summary for #Day1 - 09-08-2020
 
 👉 What you learned about Python Basics? Why Python is unique? What are it's properties like Case Sensitive?
 👉 What is REPL?
@@ -17,7 +17,7 @@ SIP Summary for #Day1 - 09-08-2020
 
 
 <br/>
-SIP Summary for #Day2 - 09-Aug-2020:
+## SIP Summary for #Day2 - 09-Aug-2020:
 
 👉 Some more python basics.
 👉 What is the importance of function? What is speak function?
@@ -35,13 +35,13 @@ SIP Summary for #Day2 - 09-Aug-2020:
 
 
 <br/>
-SIP Summary for #Day3 - 15-08-2020
+## SIP Summary for #Day3 - 15-08-2020
 
-LinkedIN | Facebook | 
+LinkedIn | Facebook | 
 [YouTube](https://youtu.be/ElOJReuu60g)
 
 <br/>
-SIP Summary for #Day4 - 16-Aug-2020
+## SIP Summary for #Day4 - 16-Aug-2020
 
 👉 What you learned more about Jupyter IDE?
 👉 What new shortcut you learned?
@@ -60,8 +60,8 @@ SIP Summary for #Day4 - 16-Aug-2020
 
 
 No session on 22nd Aug
-<br/>
-SIP Summary for #Day - 23-Aug-2020
+<br/><br/>
+## SIP Summary for #Day - 23-Aug-2020
 
 👉 What do you understand by API and CGI? What concepts you learned about these terms?
 👉 What is webserver ? How can you avail the CGI facility?
@@ -77,14 +77,13 @@ SIP Summary for #Day - 23-Aug-2020
 [YouTube](https://youtu.be/vBUx9KZyoZM)
 
 <br/>
-
 ❗ What is the difference between Radio(Option) button and CheckBox used in HTML form?❗
 
 [Facebook](https://m.facebook.com/story.php?story_fbid=176554533933378&id=101337294788436) | 
 [LinkedIN](https://www.linkedin.com/posts/iiec-rise_what-is-the-difference-between-radiooption-activity-6704649237650530305-rHAL)
 
 <br/>
-SIP Summary for #Day - 29-08-2020
+## SIP Summary for #Day - 29-08-2020
 
 👉 More about Concept of headers
 👉 How we can integrate python with Frontend (HTML) ? What is input() function?
@@ -120,7 +119,7 @@ https://www.linkedin.com/posts/akarsh-agarwal-5ba420170_iiecrise-vimaldaga-linux
 Best feature : Ample of use cases solved, for example running a Docker container using the voice assistant.
 
 <br/>
-SIP Summary for #Day - 30-08-2020
+## SIP Summary for #Day - 30-08-2020
 
 👉 Brief About ARTH and INIT
 👉 To interact with OS we need some programs i.e. programming language
@@ -144,8 +143,8 @@ SIP Summary for #Day - 30-08-2020
 [YouTube](https://youtu.be/osbBiyxTRHg)
 
 No session on 5th Sep
-<br/>
-SIP Summary for #Day - 06-09-2020
+<br/><br/>
+## SIP Summary for #Day - 06-09-2020
 
 👉 Overview About Integrating Speech with Python
 👉 How can we integrate Voice with Python ?
@@ -176,7 +175,7 @@ Everyone is suggested to go through these sessions.
 💠 Session 3: https://youtu.be/wmGgmaMmPEQ
 
 <br/>
-SIP Summary for #Day - 12-09-2020
+## SIP Summary for #Day - 12-09-2020
 
 👉 What is the concept of echo back? What's the difference between input() and getpass() function ?
 👉 What is Exit code (Status Code)? What's the significance and meaning?
@@ -190,7 +189,7 @@ SIP Summary for #Day - 12-09-2020
 [YouTube](https://youtu.be/OFzbAn0IAfQ)
 
 <br/>
-SIP Summary for #Day - 13-09-2020
+## SIP Summary for #Day - 13-09-2020
 
 👉 What you gained about docker technology ? What basics you learned about it ?
 👉 What is container technology ? What is a docker container ? How to start a docker container ?
@@ -203,7 +202,7 @@ SIP Summary for #Day - 13-09-2020
 [YouTube](https://youtu.be/-3n3ifUDIh8)
 
 <br/>
-SIP Summary for #Day - 19-09-2020
+## SIP Summary for #Day - 19-09-2020
 
 👉 What is SeLinux Security in Linux ?
 👉 How to disable this Security?
@@ -217,9 +216,8 @@ SIP Summary for #Day - 19-09-2020
 [YouTube](https://youtu.be/DQcHOmIPQOw)
 
 No session on 20th, 26th Sep 
-<br/>
-
-TASK 2 SUBMISSION CLOSING TONIGHT ⚠️
+<br/><br/>
+## TASK 2 SUBMISSION CLOSING TONIGHT ⚠️
 
 📄 Task Description: Remember initially Vimal Sir has asked everyone to practice the menu making system using CLI, now you have to convert the same menu using CGI.
 
@@ -230,7 +228,7 @@ TASK 2 SUBMISSION CLOSING TONIGHT ⚠️
 📥 Submission Link: https://bit.ly/pythontask2
 
 <br/>
-SIP Summary for #Day - 03-10-2020
+## SIP Summary for #Day - 03-10-2020
 
 👉 What you learned about loops in python? What are the various types of loops?
 👉 What is While Loop? What is the difference between while and for loop? What is the syntax?
@@ -242,8 +240,8 @@ SIP Summary for #Day - 03-10-2020
 [YouTube](https://youtu.be/BQh4Qto_V68)
 
 No session on 4th, 10th Oct
-<br/>
-SIP Summary for #Day - 11-10-2020
+<br/><br/>
+## SIP Summary for #Day - 11-10-2020
 
 👉 How many operations can we done on Dataset?
 👉 What is dimensions in Dataset?
@@ -260,7 +258,7 @@ SIP Summary for #Day - 11-10-2020
 [YouTube](https://youtu.be/zllkohlUpp0)
 
 <br/>
-SIP Summary for #Day - 17-10-2020
+## SIP Summary for #Day - 17-10-2020
 
 👉 What is the difference between list and array ?
 👉 What is the use of .shape keyword & type() function?
@@ -280,8 +278,8 @@ SIP Summary for #Day - 17-10-2020
 
 
 No session on 18th, 24th, 25th, 31st Oct and 1 November 2020
-<br/>
-SIP Summary for #Day - 05-12-2020
+<br/><br/>
+## SIP Summary for #Day - 05-12-2020
 
 👉  What is the way to manage the code and Functions ?
 👉  What are the modules in Python?
@@ -303,7 +301,7 @@ Post Links :-
 Session Link: https://youtu.be/fD67680w-YA
 
 <br/>
-SIP Summary for #Day - 06-12-2020
+## SIP Summary for #Day - 06-12-2020
 
 👉 PID of a process
 👉 In which folder you can find the details of any process ?
@@ -318,7 +316,7 @@ SIP Summary for #Day - 06-12-2020
 [YouTube](https://youtu.be/uuj8lrO8qsI)
 
 <br/>
-SIP Summary for #Day - 12-12-2020
+## SIP Summary for #Day - 12-12-2020
 
 👉 what is exception?
 👉 what is exception handling?
@@ -330,7 +328,7 @@ SIP Summary for #Day - 12-12-2020
 [You Tube](https://youtu.be/sK7IVyspM3A)
 
 <br/>
-SIP Summary for #Day - 13-12-2020
+## SIP Summary for #Day - 13-12-2020
 
 👉What is File Handling?
 👉What all things we can do with CAT command?
@@ -345,7 +343,7 @@ SIP Summary for #Day - 13-12-2020
 No Sessions on 19th and 20th December.
 
 <br/>
-SIP Summary for #Day19 - 26 December 2020
+## SIP Summary for #Day19 - 26 December 2020
 
 👉🏻What is the limitation of the input function? Which function is used to overcome this?
 👉🏻What is the only use of port number?
@@ -360,7 +358,7 @@ SIP Summary for #Day19 - 26 December 2020
 
 
 <br/>
-SIP Summary for #Day 20 ( 27 December 2020)
+## SIP Summary for #Day 20 ( 27 December 2020)
 
 👉🏻 What is client & server program...? How we can develop them...?
 👉🏻 What do you mean by log file...?
@@ -375,7 +373,7 @@ SIP Summary for #Day 20 ( 27 December 2020)
 No Sessions on 2nd January.
 
 <br/>
-SIP Summary for #Day 21 ( 3 January 2021)
+## SIP Summary for #Day 21 ( 3 January 2021)
 
 👉 What is meant by connection oriented protocol?
 👉 What are the functions used by UDP and TCP to send and receive data?
@@ -390,7 +388,7 @@ SIP Summary for #Day 21 ( 3 January 2021)
 No Sessions on 9th and 10th January.
 
 <br/>
-SIP Summary for #Day 22 ( 16 January 2021)
+## SIP Summary for #Day 22 ( 16 January 2021)
 
 👉 What is the default protocol and IP family of socket?
 👉 How to make server program accept multiple client connection?
@@ -401,7 +399,7 @@ SIP Summary for #Day 22 ( 16 January 2021)
 [You Tube](https://youtu.be/PdR-IBpxhX4)
 
 <br/>
-SIP Summary for #Day23 ( 17 January 2021)
+## SIP Summary for #Day23 ( 17 January 2021)
 
 👉 What is lambda ?
 👉 What is variable length?
@@ -417,7 +415,7 @@ SIP Summary for #Day23 ( 17 January 2021)
 Attendance Form Link https://forms.gle/haQJvZhpYE1jTr5Q9
 
 <br/>
-SIP Summary for #Day24 ( 07th February 2021)
+## SIP Summary for #Day24 ( 07th February 2021)
 
 👉 What is class in python ? What is the use of a class?
 👉 What is object in python ?
